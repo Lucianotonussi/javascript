@@ -1,0 +1,25 @@
+#logo{
+    background: #ca3413;
+    transition: all 3000ms;
+}
+
+/* El hover se lo agregé yo*/
+form input[type="submit"]:hover{ 
+    background:#ca3413;
+    color: white;
+    transition: all 300ms;}
+/* El hover se lo agregé yo*/
+
+#menu ul li:hover{
+    background: #ca3413;
+}
+
+.button-more{
+    background: #ca3413;
+}
+
+body{
+    background: url("../img/rojo.jpg");
+    background-attachment: fixed;
+    transition: all 3000ms;
+}

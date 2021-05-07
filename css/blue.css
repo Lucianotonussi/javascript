@@ -1,0 +1,25 @@
+#logo{
+    background: #1f87c4;
+    transition: all 3000ms;
+}
+
+/* El hover se lo agregé yo*/
+form input[type="submit"]:hover{ 
+    background:#1f87c4;
+    color: white;
+    transition: all 300ms;}
+/* El hover se lo agregé yo*/
+
+#menu ul li:hover{
+    background: #1f87c4;
+}
+
+.button-more{
+    background: #1f87c4;
+}
+
+body{
+    background: url("../img/cielo.jpg");
+    background-attachment: fixed;
+    transition: all 3000ms;
+}
